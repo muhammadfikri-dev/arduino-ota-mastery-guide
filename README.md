@@ -42,4 +42,4 @@ Panduan referensi terstruktur dan repositori kode produksi untuk menerapkan pemb
 ---
 
 ## 📄 Lisensi
-Didistribusikan di bawah lisensi open-source **MIT License**. Dikembangkan oleh **Muhammad Fikri**.
+Didistribusikan di bawah lisensi open-source **MIT License**. Dibuat dengan ❤️ oleh **Muhammad Fikri Dev**.
